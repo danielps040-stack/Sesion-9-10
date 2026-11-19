@@ -57,8 +57,9 @@ La segunda versión utiliza la restricción propuesta en la práctica de mantene
 ## Captura de ejecución
 
 Video:
--[Versión completa](https://youtu.be/5bLliaZQ4FY)
--[Versión con restricción](https://youtu.be/kcq-08gCY3o)
+- [Versión completa](https://youtu.be/5bLliaZQ4FY)
+
+- [Versión con restricción](https://youtu.be/kcq-08gCY3o)
 
 ## Fuentes y recursos
 
