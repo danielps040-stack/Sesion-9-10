@@ -38,7 +38,7 @@ Además, se incluyen pequeñas marcas alrededor de la órbita para mejorar visua
 ## Tecnologías
 - GLSL
 - Fragment Shaders
-- [The Book of Shaders]\(editor.thebookofshaders.com/)
+- [The Book of Shaders]\(https://editor.thebookofshaders.com/)
 - Funciones 'sin', 'cos', 'atan', 'length', 'step' y 'smoothstep'
 - Uniforms 'u_time' y 'u_resolution'
 
