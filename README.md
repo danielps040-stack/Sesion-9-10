@@ -65,7 +65,7 @@ Video:
 
 - [The Book of Shaders]\(https\://thebookofshaders.com/)
 - [Documentación de GLSL]\(https\://www.khronos.org/opengl/wiki/OpenGL_Shading_Language)
-- Material proporcionado en las sesiones 9 y 10 de Informática Gráfica
+- [Material proporcionado en las sesiones 9 y 10 de Informática Gráfica]\(https://github.com/otsedom/otsedom.github.io/blob/main/IG/S9/README.md)
 - Naruto / Sharingan utilizado únicamente como referencia visual para el diseño del patrón generativo
 
 ## Asistencia mediante inteligencia artificial
