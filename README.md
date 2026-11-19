@@ -42,11 +42,13 @@ Además, se incluyen pequeñas marcas alrededor de la órbita para mejorar visua
 - Funciones 'sin', 'cos', 'atan', 'length', 'step' y 'smoothstep'
 - Uniforms 'u_time' y 'u_resolution'
 
-## Código reducido
+## Versiones del código
 
-Se ha realizado una versión simplificada del fragment shader para cumplir con el objetivo de mantener el código por debajo de los 512 bytes.
+Se realizaron dos versiones del fragment shader.
 
-Esta versión conserva los principales elementos de la visualización: iris, pupila, tomoe y efecto dinámico de absorción.
+La primera versión corresponde al código completo y legible, utilizado durante el desarrollo para organizar y entender mejor cada parte del Sharingan, incluyendo el iris, la pupila, los tomoe, las marcas de la órbita y el efecto de vórtice.
+
+La segunda versión utiliza la restricción propuesta en la práctica de mantener el fragment shader por debajo de los 512 bytes. Para ello se simplificó y comprimió el código manteniendo los principales elementos visuales y el comportamiento dinámico de la versión original.
 
 ## Captura de ejecución
 
