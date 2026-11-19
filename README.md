@@ -52,7 +52,7 @@ La primera versión corresponde al código completo y legible, utilizado durante
 
 La segunda versión utiliza la restricción propuesta en la práctica de mantener el fragment shader por debajo de los 512 bytes. Para ello se simplificó y comprimió el código manteniendo los principales elementos visuales y el comportamiento dinámico de la versión original.
 
-- [Versión con restricción de 512 bytes](./Sharingan_restricto.frag)\
+- [Versión con restricción de 512 bytes](./Sharingan_restricto.frag)
 
 ## Captura de ejecución
 
